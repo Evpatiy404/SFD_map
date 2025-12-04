@@ -162,9 +162,6 @@ function updateLegendContent(limits, colors, container) {
 	    //Создаем переменную для хранения svg иконки
 	   const svgAdm = `<svg version="1.1" id="svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 400 266.7" style="enable-background:new 0 0 400 266.7;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#CAB340;}
-</style>
 <path id="path0" class="st0" d="M194.9,78.7c-4.9,0.3-10.5,1.4-15.4,3c-9.7,3.1-19,8.9-26.2,16.1l-2.6,2.6l-33.5,0.1
 	c-30,0.1-33.7,0.2-35.5,0.6c-2,0.5-7,1.9-7.9,2.3c-0.3,0.1-1.4,0.6-2.5,1.1c-1.7,0.7-3.7,1.7-5.9,3c-1.4,0.8-2.9,2.2-2.9,2.6
 	c0,1.6,7.3,5.6,14.3,7.8c6.2,2,4.7,1.9,34.2,1.9c16.5,0,26.7,0.1,27,0.3c0.5,0.2,0.4,0.5-0.6,3.5c-0.6,1.8-1.2,3.6-1.3,3.9
