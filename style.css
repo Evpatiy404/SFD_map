@@ -62,7 +62,7 @@ body {
 /* Заголовки 1-го уровня в Шапке */
 #header h1 {
     font-family: Montserrat, sans-serif; /* Шрифт для заголовка — Montserrat, затем любые без засечек */
-    font-size: 28px; /* Размер шрифта */
+    font-size: 26px; /* Размер шрифта */
     font-weight: 700; /* Толщина шрифта */
     letter-spacing: 1px; /* Разрядка (увеличенное расстояние между буквами) */
 }
